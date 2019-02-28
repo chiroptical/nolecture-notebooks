@@ -1,1 +1,1 @@
-Launch this notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/barrymoo/nolecture-notebook/master)
+Launch this notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/barrymoo/nolecture-notebook/master?urlpath=lab/tree/Introduction.ipynb)
